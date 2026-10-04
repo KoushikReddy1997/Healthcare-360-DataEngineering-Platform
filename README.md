@@ -21,7 +21,7 @@ The platform will answer:
 
 Workflow 
 
- GitHub
+                   GitHub
                (Version Control)
                      │
                      ↓
