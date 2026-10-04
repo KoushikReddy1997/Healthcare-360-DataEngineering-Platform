@@ -21,16 +21,37 @@ The platform will answer:
 
 Workflow 
 
-AWS S3(Source) - files: CSV / JSON / Parquet
-   ↓
-Databricks(Target)- Bronze
-   ↓
-dbt Core(Transformations+ Testing + Data Quality + Lineage)- Silver, Gold
-   ↓
-GitHub(Version Control)
-   ↓
-GitHub Actions
-   ↓
-Databricks Workflows(Orchestrations)- Pipelines
-   ↓
-Monitoring / Audit
+                    GitHub
+               (Version Control)
+                     │
+                     ↓
+               GitHub Actions
+                  (CI/CD)
+                     │
+                     ↓
+AWS S3 ───────→ Databricks
+Source             │
+CSV/JSON/           │
+Parquet             ↓
+                  BRONZE
+               Raw/Ingested Data
+                     │
+                     ↓
+                  dbt Core
+          Transformations + Testing
+             + Data Quality
+                     │
+              ┌──────┴──────┐
+              ↓             ↓
+            SILVER         GOLD
+          Cleaned &       Business/
+          Conformed       Aggregated
+              │             │
+              └──────┬──────┘
+                     │
+                     ↓
+            Databricks Workflows
+               Orchestration
+                     │
+                     ↓
+             Monitoring / Audit
