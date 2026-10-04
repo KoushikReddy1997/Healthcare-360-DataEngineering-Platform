@@ -29,29 +29,29 @@ Workflow
                   (CI/CD)
                      │
                      ↓
-AWS S3 ───────→ Databricks
-Source             │
-CSV/JSON/           │
-Parquet             ↓
-                  BRONZE
-               Raw/Ingested Data
-                     │
-                     ↓
-                  dbt Core
-          Transformations + Testing
-             + Data Quality
-                     │
-              ┌──────┴──────┐
-              ↓             ↓
-            SILVER         GOLD
-          Cleaned &       Business/
-          Conformed       Aggregated
-              │             │
-              └──────┬──────┘
-                     │
-                     ↓
-            Databricks Workflows
-               Orchestration
-                     │
-                     ↓
-             Monitoring / Audit
+      AWS S3 ───────→ Databricks
+      Source             │
+      CSV/JSON/           │
+      Parquet             ↓
+                        BRONZE
+                     Raw/Ingested Data
+                           │
+                           ↓
+                        dbt Core
+                Transformations + Testing
+                   + Data Quality
+                           │
+                    ┌──────┴──────┐
+                    ↓             ↓
+                  SILVER         GOLD
+                Cleaned &       Business/
+                Conformed       Aggregated
+                    │             │
+                    └──────┬──────┘
+                           │
+                           ↓
+                  Databricks Workflows
+                     Orchestration
+                           │
+                           ↓
+                   Monitoring / Audit
