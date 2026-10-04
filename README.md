@@ -1,7 +1,7 @@
 # Healthcare-360-DataEngineering-Platform
 
 1. Project Overview: Healthcare Claims, Membership & Provider Analytics Platform
-2. 
+
 Healthcare 360: Claims, Membership & Provider Analytics Platform
 - Business domain: Healthcare insurance Analytics
 - Project type: End-to-end batch ELT data platform
