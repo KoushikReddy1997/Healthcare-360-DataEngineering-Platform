@@ -18,3 +18,19 @@ The platform will answer:
 6. How are medical costs trending by geographic region and provider specialty?
 7. How long does it take from claim submission to payment?
 8. Are there duplicate claims, missing provider details, or invalid claim amounts?
+
+Workflow 
+
+AWS S3(Source) - files: CSV / JSON / Parquet
+   ↓
+Databricks(Target)- Bronze
+   ↓
+dbt Core(Transformations+ Testing + Data Quality + Lineage)- Silver, Gold
+   ↓
+GitHub(Version Control)
+   ↓
+GitHub Actions
+   ↓
+Databricks Workflows(Orchestrations)- Pipelines
+   ↓
+Monitoring / Audit
