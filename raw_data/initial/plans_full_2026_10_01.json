@@ -1,0 +1,222 @@
+[
+  {
+    "plan_id":"PLN001",
+    "plan_name":"HealthChoice POS 1",
+    "product_type":"PPO",
+    "metal_tier":"Gold",
+    "market_segment":"Exchange",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN002",
+    "plan_name":"HealthChoice EPO 2",
+    "product_type":"PPO",
+    "metal_tier":"Bronze",
+    "market_segment":"Commercial",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN003",
+    "plan_name":"HealthChoice POS 3",
+    "product_type":"EPO",
+    "metal_tier":"Bronze",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"1",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN004",
+    "plan_name":"HealthChoice Medicaid 4",
+    "product_type":"EPO",
+    "metal_tier":"",
+    "market_segment":"Commercial",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN005",
+    "plan_name":"HealthChoice PPO 5",
+    "product_type":"POS",
+    "metal_tier":"Silver",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN006",
+    "plan_name":"HealthChoice Medicaid 6",
+    "product_type":"Medicaid",
+    "metal_tier":"Platinum",
+    "market_segment":"Commercial",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN007",
+    "plan_name":"HealthChoice Medicaid 7",
+    "product_type":"EPO",
+    "metal_tier":"Gold",
+    "market_segment":"Exchange",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Yes",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN008",
+    "plan_name":"HealthChoice EPO 8",
+    "product_type":"POS",
+    "metal_tier":"",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN009",
+    "plan_name":"HealthChoice EPO 9",
+    "product_type":"POS",
+    "metal_tier":"Silver",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN010",
+    "plan_name":"HealthChoice Medicaid 10",
+    "product_type":"EPO",
+    "metal_tier":"Silver",
+    "market_segment":"Commercial",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Yes",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN011",
+    "plan_name":"HealthChoice HMO 11",
+    "product_type":"POS",
+    "metal_tier":"Bronze",
+    "market_segment":"Exchange",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN012",
+    "plan_name":"HealthChoice EPO 12",
+    "product_type":"PPO",
+    "metal_tier":"",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Yes",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN013",
+    "plan_name":"HealthChoice EPO 13",
+    "product_type":"HMO",
+    "metal_tier":"Bronze",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN014",
+    "plan_name":"HealthChoice Medicaid 14",
+    "product_type":"Medicaid",
+    "metal_tier":"Gold",
+    "market_segment":"Medicaid",
+    "effective_date":"2024-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN015",
+    "plan_name":"HealthChoice POS 15",
+    "product_type":"Medicaid",
+    "metal_tier":"Bronze",
+    "market_segment":"Commercial",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN016",
+    "plan_name":"HealthChoice HMO 16",
+    "product_type":"HMO",
+    "metal_tier":"",
+    "market_segment":"Exchange",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN017",
+    "plan_name":"HealthChoice EPO 17",
+    "product_type":"EPO",
+    "metal_tier":"Bronze",
+    "market_segment":"Commercial",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN018",
+    "plan_name":"HealthChoice Medicaid 18",
+    "product_type":"POS",
+    "metal_tier":"Platinum",
+    "market_segment":"Exchange",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN019",
+    "plan_name":"HealthChoice PPO 19",
+    "product_type":"Medicaid",
+    "metal_tier":"Gold",
+    "market_segment":"Commercial",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"Y",
+    "record_updated_at":"2026-09-30 18:00:00"
+  },
+  {
+    "plan_id":"PLN020",
+    "plan_name":"HealthChoice Medicaid 20",
+    "product_type":"POS",
+    "metal_tier":"",
+    "market_segment":"Exchange",
+    "effective_date":"2025-01-01",
+    "termination_date":"",
+    "active_flag":"1",
+    "record_updated_at":"2026-09-30 18:00:00"
+  }
+]
