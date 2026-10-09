@@ -1,0 +1,52 @@
+provider_id,provider_name,provider_type,specialty,npi,tax_id,city,state,network_status,effective_date,termination_date,record_updated_at
+P0010001,Dr. Joseph Bailey,Individual,Internal Medicine,9054956726,63-2046497,Atlanta,GA,In-Network,2026-04-01,,2026-01-26 00:00:00
+P0010002,Dr. Pamela Lewis,Individual,Cardiology,8941839516,73-6482919,Pittsburgh,PA,In-Network,2023-10-21,,2025-07-13 00:00:00
+P0010003,Dr. Susan Martinez,Individual,Emergency Medicine,1908798722,49-6027485,Cleveland,OH,PAR,2019-10-14,,2024-12-02 00:00:00
+P0010004,Dr. Patrick Kelly,Individual,Emergency Medicine,9501383420,62-3176386,Charlotte,NC,In-Network,2023-10-24,2025-01-06,2025-03-24 00:00:00
+P0010005,Dr. Brian Wood,Individual,Behavioral Health,2584132163,14-6343071,Los Angeles,CA,In-Network,2018-06-30,,2026-05-20 00:00:00
+P0010006,Dr. Joshua Walker,Individual,Oncology,5869770895,71-5299375,Savannah,GA,IN,2024-10-14,2027-04-28,2025-02-03 00:00:00
+P0010007,Dr. Emma Davis,Individual,Internal Medicine,2697030965,79-2231881,Indianapolis,IN,IN,2021-06-08,,2024-11-23 00:00:00
+P0010008,Dr. Andrew Mitchell,Individual,Behavioral Health,9054415034,90-4748168,Charleston,WV,IN,2026-04-10,2033-05-16,2025-08-23 00:00:00
+P0010009,Dr. William Reddy,Individual,Oncology,6030604278,68-8228991,Savannah,GA,IN,2021-07-29,,2025-07-13 00:00:00
+P0010010,Ruiz Health Center,Organization,General Surgery,4111297089,15-1641256,Lansing,MI,In-Network,2026-01-23,2030-11-10,2025-01-13 00:00:00
+P0010011,Dr. Linda Peterson,Individual,Radiology,9717865892,84-3098178,South Bend,IN,NONPAR,2024-07-14,,2025-10-01 00:00:00
+P0010012,Dr. Gregory Ramos,Individual,Dermatology,7966692864,88-2314131,Raleigh,NC,In-Network,2025-02-09,,2025-12-25 00:00:00
+P0010013,Dr. Shirley Reyes,Individual,Internal Medicine,2833849320,90-2484832,Louisville,KY,OUT,2023-12-17,,2025-10-26 00:00:00
+P0010014,Smith Health Center,Organization,Dermatology,3372970037,69-7103773,Austin,TX,Out-of-Network,2025-05-10,,2026-09-21 00:00:00
+P0010015,Dr. Joshua Harris,Individual,Dermatology,2241486575,91-4611653,Indianapolis,IN,IN,2018-11-07,,2025-06-30 00:00:00
+P0010016,Dr. Brandon Lopez,Individual,Cardiology,7315075138,50-4857164,Lansing,MI,Out-of-Network,2022-10-02,,2025-03-17 00:00:00
+P0010017,Dr. Kathleen King,Individual,Emergency Medicine,6695039300,68-2271152,Pittsburgh,PA,Out-of-Network,2025-11-08,,2025-11-18 00:00:00
+P0010018,Dr. Paul Green ,Individual,Oncology,3637961778,58-8039324,Raleigh,NC,IN,2023-02-25,,2026-03-15 00:00:00
+P0010019,Phillips Health Center,Organization,Neurology,2491802088,32-3294878,Rochester,NY,IN,2021-01-10,,2025-08-02 00:00:00
+P0010020,Dr. Helen Walker,Individual,Radiology,1009638504,45-8199210,Raleigh,NC,IN,2022-07-06,,2024-10-17 00:00:00
+P0010021,Dr. Sharon Lewis,Individual,Emergency Medicine,9275663945,35-8280562,South Bend,IN,IN,2019-01-27,,2026-09-15 00:00:00
+P0010022,Dr. Melissa Taylor,Individual,Behavioral Health,1179783501,46-2805841,Charleston,WV,IN,2021-02-09,,2025-02-09 00:00:00
+P0010023,Dr. Sandra Sanders,Individual,Pediatrics,5840113529,77-7164714,Springfield,IL,PAR,2019-02-20,,2026-03-16 00:00:00
+P0010024,Dr. Linda Hill,Individual,Pediatrics,5095097263,13-8745886,Sacramento,CA,IN,2022-07-28,,2025-07-10 00:00:00
+P0010025,Dr. Michelle White,Individual,OB/GYN,2925046232,33-1038332,Norfolk,VA,Out-of-Network,2026-01-05,2030-05-28,2025-11-25 00:00:00
+P0010026,White Health Center,Organization,Cardiology,7006532093,35-2147350,Evansville,IN,IN,2021-07-18,,2025-06-25 00:00:00
+P0010027,Dr. Gary White,Individual,Orthopedics,5160474120,48-3773396,Richmond,VA,IN,2023-05-12,,2024-11-24 00:00:00
+P0010028,Dr. Nicole Reddy,Individual,Behavioral Health,9139881748,92-1574543,Raleigh,NC,In-Network,2018-09-03,,2026-02-03 00:00:00
+P0010029,Dr. Nicholas Chavez,Individual,Orthopedics,9229396133,94-3663688,Raleigh,NC,OUT,2018-11-22,2021-10-07,2026-01-24 00:00:00
+P0010030,Rogers Health Center,Organization,Radiology,9479165075,78-7969591,Richmond,VA,IN,2021-01-08,,2026-03-30 00:00:00
+P0010031,Dr. Sarah Hughes,Individual,Orthopedics,4100786539,16-4368522,Charlotte,NC,In-Network,2018-09-17,2024-04-18,2025-03-27 00:00:00
+P0010032,Dr. Angela Ward,Individual,Internal Medicine,1658847875,13-9520337,Columbus,OH,Out-of-Network,2021-01-08,,2026-02-18 00:00:00
+P0010033,Dr. Jacob Watson,Individual,Pediatrics,1913582067,31-3732316,Louisville,KY,IN,2018-10-02,,2026-08-22 00:00:00
+P0010034,Dr. William Rogers,Individual,Internal Medicine,2710157011,93-1847186,Huntington,WV,IN,2020-07-27,2021-12-27,2024-12-23 00:00:00
+P0010035,Dr. Thomas Taylor,Individual,Family Medicine,7566617198,47-8564456,Savannah,GA,OUT,2023-06-30,,2025-10-10 00:00:00
+P0010036,Dr. Cynthia Young,Individual,Orthopedics,7231046444,27-4335139,Toledo,OH,IN,2024-10-26,2030-11-15,2026-04-01 00:00:00
+P0010037,Dr. Ronald Edwards,Individual,Internal Medicine,3570312980,86-6755768,Buffalo,NY,IN,2025-07-08,,2025-02-25 00:00:00
+P0010038,Dr. Katherine Peterson,Individual,Dermatology,3777511148,71-7314512,South Bend,IN,In-Network,2019-11-13,,2025-09-30 00:00:00
+P0010039,Smith Health Center,Organization,OB/GYN,5950336676,21-6685101,Houston,TX,In-Network,2026-01-10,,2025-03-07 00:00:00
+P0010040,Dr. Larry Ortiz,Individual,General Surgery,7080096161,19-1418606,Chicago,IL,OUT,2018-01-19,2022-10-30,2026-08-08 00:00:00
+P0010041,Nelson Health Center,Organization,Behavioral Health,5133871055,66-3458217,Richmond,VA,IN,2026-05-21,,2025-02-12 00:00:00
+P0010042,Dr. Gary Cox,Individual,Family Medicine,5773835259,44-1985557,Springfield,IL,PAR,2021-08-05,,2026-05-07 00:00:00
+P0010043,Dr. Raymond James,Individual,Dermatology,8401245149,81-8696153,Fort Wayne,IN,IN,2026-05-16,,2026-01-27 00:00:00
+P0010044,Dr. Larry Bennett,Individual,Cardiology,8404600266,27-8013740,Atlanta,GA,PAR,2023-08-11,,2024-12-10 00:00:00
+P0010045,Dr. Larry Watson,Individual,Family Medicine,2615202006,27-1994169,Atlanta,GA,In-Network,2020-10-19,,2026-02-25 00:00:00
+P0010046,Dr. Cynthia Baker,Individual,Dermatology,4039642807,67-6713710,Atlanta,GA,IN,2020-10-22,,2025-01-06 00:00:00
+P0010047,Dr. Gregory Gonzalez,Individual,Pediatrics,1161211569,14-5177865,Miami,FL,IN,2026-03-08,,2025-11-07 00:00:00
+P0010048,Dr. Sarah Rogers,Individual,Radiology,7461183290,61-4614181,Tampa,FL,In-Network,2020-12-11,2023-01-06,2025-05-12 00:00:00
+P0010049,Dr. Shirley Alvarez,Individual,Internal Medicine,8146849074,59-5316212,Savannah,GA,In-Network,2020-02-15,2023-10-02,2024-12-18 00:00:00
+P0010050,Dr. Patrick Wright,Individual,Dermatology,9706737961,61-3671462,Norfolk,VA,In-Network,2018-07-10,2025-11-29,2025-06-03 00:00:00
+P0010014,Smith Health Center,Organization,Dermatology,3372970037,69-7103773,Austin,TX,Out-of-Network,2025-05-10,,2026-09-21 00:00:00
